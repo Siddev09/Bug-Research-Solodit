@@ -1,4 +1,4 @@
-All Bugs are focus on these topics :
+All Bugs are focused on these topics :
 1. Perpetuals
 2. Staking/Lending
 3. AMM
