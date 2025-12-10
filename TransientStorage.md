@@ -1,2 +1,1 @@
-its a variable which mostly used for safty or locking any function till it completly execute. 
-if it loosely implemented it can be overidden by multiple calls to the same function . end user get different result then expected . 
+It’s a state variable used as a safety mechanism to lock a function while it is executing. If the locking logic is weak or incorrectly implemented, multiple calls can bypass the lock, leading to inconsistent or unexpected results for the end user.
